@@ -95,7 +95,7 @@ const Hero = () => {
             transition: { duration: 0.4, ease: 'easeOut' },
           }}
         >
-          <span className="text-purple-500 transition-colors duration-300 hover:text-purple-300">Abyss </span>
+          <span className="text-purple-500 transition-colors duration-300 hover:text-purple-300">Abyss</span>
           <span className="relative">
             Tube
             <span className="absolute -top-4 -right-4 text-2xl text-purple-500 animate-bounce shadow-neon-purple transition-transform duration-300 hover:scale-125">🎥</span>

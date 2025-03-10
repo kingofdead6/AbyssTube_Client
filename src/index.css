@@ -1,4 +1,8 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+body {
+  font-family: 'Roboto Mono', monospace;
+}
  .title-hover-effect {
     position: relative;
     transition: all 0.3s ease-out;
